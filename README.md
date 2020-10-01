@@ -1,1 +1,1 @@
-# PythonTutorialForBeginners
+# PythonTutorialForBeginners Easy Tutorials
